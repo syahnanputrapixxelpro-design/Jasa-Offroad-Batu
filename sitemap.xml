@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+  <!-- Halaman Utama -->
+  <url>
+    <loc>https://jasaoffroadbatu.netlify.app/</loc>
+    <lastmod>2026-02-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Halaman Blog -->
+  <url>
+    <loc>https://jasaoffroadbatu.netlify.app/blog.html</loc>
+    <lastmod>2026-02-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Artikel: Paket Fun Offroad Jeep Coban Putri (Pillar Page) -->
+  <url>
+    <loc>https://jasaoffroadbatu.netlify.app/paket-fun-offroad-jeep-coban-putri.html</loc>
+    <lastmod>2026-02-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Artikel: Rincian Harga & Fasilitas Paket Fun Offroad Jeep Coban Putri 2026 -->
+  <url>
+    <loc>https://jasaoffroadbatu.netlify.app/harga-fasilitas-paket-fun-offroad-jeep-coban-putri.html</loc>
+    <lastmod>2026-02-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Artikel: Pengalaman Seru Liburan Keluarga dengan Paket Fun Offroad Jeep Coban Putri -->
+  <url>
+    <loc>https://jasaoffroadbatu.netlify.app/pengalaman-liburan-keluarga-paket-fun-offroad-jeep-coban-putri.html</loc>
+    <lastmod>2026-02-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Artikel: 5 Tips Persiapan Wajib Sebelum Memesan Paket Fun Offroad Jeep Coban Putri -->
+  <url>
+    <loc>https://jasaoffroadbatu.netlify.app/tips-persiapan-paket-fun-offroad-jeep-coban-putri.html</loc>
+    <lastmod>2026-02-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Artikel: Alasan Paket Fun Offroad Jeep Coban Putri Cocok untuk Pemula -->
+  <url>
+    <loc>https://jasaoffroadbatu.netlify.app/paket-fun-offroad-jeep-coban-putri-pemula.html</loc>
+    <lastmod>2026-02-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+</urlset>

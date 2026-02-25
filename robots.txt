@@ -1,0 +1,10 @@
+# robots.txt — Jasa Offroad Batu
+# Website: https://jasaoffroadbatu.netlify.app/
+
+User-agent: *
+Allow: /
+
+# Disallow admin or irrelevant paths (none for now)
+# Disallow: /admin/
+
+Sitemap: https://jasaoffroadbatu.netlify.app/sitemap.xml
